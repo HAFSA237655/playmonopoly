@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Monopoly Landing Page</title>
+<style>
+body {
+font-family: Arial, sans-serif;
+margin: 0;
+padding: 0;
+background-color: #f4f4f4;
+}
+.header {
+background-color: #007bff;
+color: white;
+text-align: center;
+padding: 50px 0;
+}
+.content {
+text-align: center;
+padding: 30px;
+background-color: #fff;
+}
+.button {
+background-color: #28a745;
+color: white;
+padding: 15px 30px;
+font-size: 20px;
+cursor: pointer;
+border: none;
+border-radius: 5px;
+text-decoration: none;
+}
+.footer {
+background-color: #343a40;
+color: white;
+text-align: center;
+padding: 20px;
+position: fixed;
+width: 100%;
+bottom: 0;
+}
+</style>
+</head>
+<body>
+<div class="header">
+<h1>Welcome to the Monopoly Game!</h1>
+<p>Start your exciting adventure now.</p>
+</div>
+
+<div class="content">
+<h2>Get Your Monopoly Game Today</h2>
+<p>Click the button below to start playing!</p>
+<a href="https://your-cpa-link.com" class="button">Start Now</a>
+</div>
+
+<div class="footer">
+<p>&copy; 2025 Monopoly Game</p>
+</div>
+</body>
+</html>
